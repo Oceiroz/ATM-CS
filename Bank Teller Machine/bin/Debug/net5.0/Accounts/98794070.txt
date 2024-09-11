@@ -1,0 +1,6 @@
+Lucas
+Wharton
+223.45
+1234
+True
+1000

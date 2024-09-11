@@ -1,0 +1,16 @@
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.exe
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.deps.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.runtimeconfig.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.runtimeconfig.dev.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\bin\Debug\net5.0\Bank Teller Machine.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.AssemblyInfo.cs
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\refint\Bank Teller Machine.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\Bank Teller Machine.genruntimeconfig.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Bank Teller Machine\obj\Debug\net5.0\ref\Bank Teller Machine.dll
